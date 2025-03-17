@@ -1,6 +1,6 @@
-# 📦 Streamlit App Starter Kit 
+# Dematology MD Project
 ```
-⬆️ (Replace above with your app's name)
+Dermatology 
 ```
 
 Description of the app ...
